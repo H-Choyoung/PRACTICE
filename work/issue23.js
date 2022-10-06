@@ -18,7 +18,7 @@
     // console.log(pokemon.all()); //포켓몬들의 이름 출력됨
     // console.log(pokemon);
     // console.log(pokemon.all().length); //905
-    // console.log(pokemon.getName());
+    // console.log(pokemon.getName()); //함수 확인 
     // console.log(pokemonObj(pokemon));
     
     const issue23 = pokemonObj(pokemon);
